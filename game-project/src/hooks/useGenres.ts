@@ -5,6 +5,7 @@ import useData from "./useData";
     id:number;
     name:string;
     image_background:string;
+    slug:string;
 }
 
 
